@@ -1,0 +1,26 @@
+/* your styles go here */
+
+.bggreen {
+    background: #54e69d !important;
+    color: #fff;
+  }
+
+  .bgorange {
+    background: #ffc36d !important;
+    color: #fff;
+  }
+
+  .bgviolet {
+    background: #796AEE !important;
+    color: #fff;
+  }
+
+  .bgblue {
+    background: #85b4f2 !important;
+    color: #fff;
+  }
+
+  .build {
+    border: 2px solid #ced4da !important;
+    height: 150px;
+  }
